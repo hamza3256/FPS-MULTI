@@ -12,3 +12,5 @@ Devised a script that takes into consideration both the type of bullet the weapo
 
 Animation:
 Implemented various types of animations: weapon reload, scope mode, walk mode, death mode, and recoil system. 
+
+Developers: Muhammad Hamza, Sadeq Rahman, and Raj Kadir.
